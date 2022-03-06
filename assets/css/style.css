@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/* Background Color For Website */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* Website Header Styling */
 
 .header {
     padding: 20px;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/* Hero Section Image and Sizing */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +64,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Content Section Image Placement */
 
 .float-left {
     float: left;
@@ -69,11 +77,15 @@ p {
     margin-left: 25px;
 }
 
+/* Content Section Sizing and Display */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Benefit Section Styling */
 
 .benefits {
     margin-right: 20px;
@@ -91,16 +103,22 @@ p {
     color: #ffffff;
 }
 
+/* Benefit Section Headers */
+
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* Benefit Section Image Display and Sizing */
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Content Section Styling */
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -111,14 +129,20 @@ p {
     color: #ffffff;
 }
 
+/* Content Section Images */
+
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
+
+/* Content Section Headers */
 
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer Styling */
 
 .footer {
     padding: 30px;
@@ -126,6 +150,8 @@ p {
     font-family: Arial, sans-serif;
     text-align: center;
 }
+
+/* Footer Header Sizing */
 
 .footer h2 {
     font-size: 20px;
